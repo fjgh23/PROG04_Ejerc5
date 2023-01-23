@@ -8,6 +8,10 @@ import java.util.Scanner;
  * Esto es un comentario para Entonnos de Desarrollo
  */
 
+/*
+ * Añadimos otro comentario
+ */
+
 /**
 *
 * Realiza divisiones de dos números introducidos por teclado.
