@@ -4,14 +4,6 @@ import java.util.InputMismatchException;
 import java.lang.ArithmeticException;
 import java.util.Scanner;
 
-/*
- * Esto es un comentario para Entonnos de Desarrollo
- */
-
-/*
- * Añadimos otro comentario
- */
-
 /**
 *
 * Realiza divisiones de dos números introducidos por teclado.
@@ -21,7 +13,6 @@ import java.util.Scanner;
 * 
 */
 public class PROG04_Ejerc5 {
-    int holaED = 1;
 
     /**
     *
